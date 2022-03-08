@@ -24,7 +24,7 @@ And returns as output:
 ```
 
 # Versions
-## v 2.0.0
+## v 1.2.0
 Uses synthetic location information from Jim Pick's provider quest project
 See Jim's presentation on the methodology [here](https://youtu.be/PyxSRV0UlFc?t=2633)
 Data pulled from [this textile bucket](https://hub.textile.io/thread/bafkwblbznyqkmqx5l677z3kjsslhxo2vbbqh6wluunvvdbmqattrdya/buckets/bafzbeibjg7kky45npdwnogui5ffla7dint62xpttvvlzrsbewlrfmbusya/synthetic-country-state-province-locations-latest.json)
