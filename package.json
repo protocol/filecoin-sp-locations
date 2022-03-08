@@ -1,0 +1,19 @@
+{
+  "name": "filecoin-sp-locations",
+  "version": "1.0.0",
+  "description": "map SP to location, with version control",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protocol/filecoin-sp-locations.git"
+  },
+  "author": "Alan Ransil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/protocol/filecoin-sp-locations/issues"
+  },
+  "homepage": "https://github.com/protocol/filecoin-sp-locations#readme"
+}
